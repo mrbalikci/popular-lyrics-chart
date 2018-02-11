@@ -8,3 +8,5 @@
 * `Flask`
 * `D3`
 * `Python` 
+
+![alt text](https://github.com/mrbalikci/popular-lyrics-chart/blob/master/snip.PNG)
